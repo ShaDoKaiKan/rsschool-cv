@@ -17,6 +17,9 @@ __My education:__
 __Work experience:__ 
 - R&D LAB 4.6 «INTEGRATED MICRO- AND NANOSYSTEMS», Junior Researcher, 2016 - present, BSUIR, Minsk, Belarus.
 
+__Last coding experience:__ 
+- https://www.codewars.com/kata/reviews/5da9f0e342d79100018170b6/groups/5e21722aaa63470001dfa2d7
+
 __Personal qualities:__ 
 Industriousness, Versatility, Accuracy, Discipline, Responsibility, Sociability, Determination.
 
